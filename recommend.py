@@ -4,10 +4,6 @@ import joblib
 import logging
 import gdown
 
-# ==============================
-# 🔑 GOOGLE DRIVE FILE IDS
-# ==============================
-
 DF_FILE_ID = "1zt4D2gkeB4Gg6Ld9RFvh6wRAedqVHKO1"
 COSINE_FILE_ID = "1i2JpskuFc-Pf-7fq0-OelYllZDhcoOUM"
 
